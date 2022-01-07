@@ -67,23 +67,4 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 
 ## test
 * 2022.01 [Connectivity Manager API WAN篇](https://hackmd.io/@YMont/CM_wan)
-* 該函式裡呼叫多次setValIfExist函式
-1.可給定兩個參數，若參數1不為空則回傳本身；若為空，則回傳預設的空字串(值)
-2.所以，理論上操作設定WAN時，都要把每個空格填入值；推測跟UI畫面呈現方式有關吧!
-* 函式create_nat_config_for_wan_apttern裡面細節
-(這個函式裡面很多**NAT**實作細節，需要另開一篇撰寫)
-1.大概就是開啟一個`natcfg.sh`檔案與`natcfg_func.sh`檔案
-2.接著將物件得到的值(**wandevliststr**, **landev**, **lanip**, **lanmask**)代入`natcfg_func.sh`的變數位置
-3.最後再將變更完的資料寫入`natcfg.sh`，搬移到系統位置，執行shell腳本
-* 函式applyWanEthernetConnection裡面細節
-1.==多了一個冗贅/cmlib/cmutils.python/ line.2208 似乎重複2209的事情==
-2.==也沒有物件承接，但是該函式有回傳值，意義不明!==
 
----
-
-**Part3**
-`/connapi/wan.py line.73`
-```python=
-retobj = cmutils.getWanSettingsWithSubsettings(wanIndex=wanIndex)
-msg = GeneralMessageModel.successMessage(obj=retobj)
-```
