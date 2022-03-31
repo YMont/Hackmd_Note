@@ -66,9 +66,3 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 ## Shell
 * 2022.02 [Shell learning - system service](https://hackmd.io/@YMont/shell-I)
 
-## Mountain 登山
-* 2021.11 [關於登山 我是如何打怪練功的呢 (品田池有篇)](https://hackmd.io/@YMont/mountain-池有品田)
-* 2022.02 [北大武山 登山紀錄](https://hackmd.io/@YMont/mountain-北大武山)
-
----
-
