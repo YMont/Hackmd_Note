@@ -1,5 +1,4 @@
 # 【總筆記】目錄
-###### tags: `catalog`
 
 Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 
@@ -52,6 +51,8 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 ## SQL
 * 2021.10 [使用Python建立SQLite DB with SQLAlchemy](https://hackmd.io/@YMont/S101piNzY) 
 * 2021.10 [SQL 解題練習](https://hackmd.io/@YMont/rJQH8nEfK) 
+* 2022.03 [第一次實機安裝Linux就上手](https://hackmd.io/@YMont/install-Linux-Ubuntu)
+
 
 ## Protocol 通訊協定
 **Modbus**
@@ -60,11 +61,14 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 **HTTP**
 * 2021.11 [來刷一下吧 Lidemy HTTP Challenge](https://hackmd.io/@YMont/http-lidemy)
 
+## Git
+* 2022.01 [git 應用指令紀錄](https://hackmd.io/@YMont/git-learning-1)
+## Shell
+* 2022.02 [Shell learning - system service](https://hackmd.io/@YMont/shell-I)
+
 ## Mountain 登山
-* 2021.11 [關於登山 我是如何打怪練功的呢 (品田池有篇)](https://hackmd.io/@YMont/-mountain-池有品田)
+* 2021.11 [關於登山 我是如何打怪練功的呢 (品田池有篇)](https://hackmd.io/@YMont/mountain-池有品田)
+* 2022.02 [北大武山 登山紀錄](https://hackmd.io/@YMont/mountain-北大武山)
 
 ---
-
-## test
-* 2022.01 [Connectivity Manager API WAN篇](https://hackmd.io/@YMont/CM_wan)
 
