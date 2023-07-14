@@ -1,6 +1,8 @@
 # 【總筆記】目錄
 
-Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
+###### tags: `category`
+
+Copyright 2021, [YMont](https://hackmd.io/@YMont/note-catalog)
 
 ---
 
@@ -39,10 +41,12 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 ## Python Learning
 * 2021.10 [Python應用Asynchronous 初探異步/同步](https://hackmd.io/@YMont/python-learning-asynchronous) 
 * 2021.12 [Python 類別&裝飾器](https://hackmd.io/@YMont/python-learning-class-decorator)
+* 2022.04 [使用解析Python工具 一次就上手_解開函式類別的奧秘](https://hackmd.io/@YMont/SJZxNu3bq)
 
 ## Data Structure 資料結構
 * 2021.09 [Linked list-Struct 細節探討與學習(上)](https://hackmd.io/@YMont/B18SDqFXt) 
-* 2021.09 [Linked list-Struct 細節探討與學習(下)](https://hackmd.io/@YMont/rJOnmacmK) 
+* 2021.09 [Linked list-Struct 細節探討與學習(下)](https://hackmd.io/@YMont/rJOnmacmK)
+* 2022.04 [Linked list學習紀錄](https://hackmd.io/@YMont/SyKkA-rV5)
 
 ## C make
 * 2021.08 [初探Makefile](https://hackmd.io/@YMont/r1m7nsugF) 
@@ -51,7 +55,6 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 ## SQL
 * 2021.10 [使用Python建立SQLite DB with SQLAlchemy](https://hackmd.io/@YMont/S101piNzY) 
 * 2021.10 [SQL 解題練習](https://hackmd.io/@YMont/rJQH8nEfK) 
-* 2022.03 [第一次實機安裝Linux就上手](https://hackmd.io/@YMont/install-Linux-Ubuntu)
 
 
 ## Protocol 通訊協定
@@ -61,8 +64,18 @@ Copyright 2021, [月下麒麟 YMont](https://hackmd.io/@YMont/note-catalog)
 **HTTP**
 * 2021.11 [來刷一下吧 Lidemy HTTP Challenge](https://hackmd.io/@YMont/http-lidemy)
 
+**MQTT**
+* 2022.04 [MQTT一條龍到GUI](https://hackmd.io/@YMont/mqtt-to-gui)
+
 ## Git
 * 2022.01 [git 應用指令紀錄](https://hackmd.io/@YMont/git-learning-1)
 ## Shell
 * 2022.02 [Shell learning - system service](https://hackmd.io/@YMont/shell-I)
 
+## 不分類，工作上手
+* 2022.03 [第一次實機安裝Linux就上手](https://hackmd.io/@YMont/install-Linux-Ubuntu)
+* 2022.04 [右鍵快速開啟檔案 with Vscode, cmd In Windows 10](https://hackmd.io/@YMont/rJyJPQFS9)
+
+## Mountain 登山
+* 2021.11 [關於登山 我是如何打怪練功的呢 (品田池有篇)](https://hackmd.io/@YMont/mountain-池有品田)
+* 2022.02 [北大武山 登山紀錄](https://hackmd.io/@YMont/mountain-北大武山)
